@@ -24,10 +24,4 @@ Frontend - https://secure-account-dashboard.vercel.app/
 
 Backend - https://secure-account-dashboard-backend.onrender.com
 
-## Authors
 
-- [@gritik418](https://github.com/gritik418)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-gupta-849680251/)
